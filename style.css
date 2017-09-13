@@ -1,0 +1,45 @@
+body {
+	margin: 0 auto;
+	width: 100vw;
+	height: 100vh;
+	font-family: 'Cutive Mono', monospace;
+	text-align: center;
+}
+
+#main {
+	background: url('./img/main.jpg') no-repeat;
+	background-size: 100%;
+	width: 100vw;
+	height: 100vh;
+}
+
+#instructions{
+	background: url('./img/instructions.jpg') no-repeat;
+	background-size: 100%;
+	width: 100vw;
+	height: 100vh;
+}
+
+#game {
+	background: url('./img/game.jpg') no-repeat;
+	background-size: 100%;
+	width: 100vw;
+	height: 100vh;
+}
+
+h1 {
+	margin: 0 auto;
+	
+}
+
+button a{
+	margin: 0 auto;
+	padding: 10px;
+	text-decoration: none;
+}
+
+p {
+	width: 400px;
+	margin-left: 480px;
+
+}
